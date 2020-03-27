@@ -1,2 +1,2 @@
-# PM2.5_INDIANCITIES_LEVELS
-Used data.gov.in api to collect pm2.5 levels of different Indian Cities and made a bar chart
+# Particulate matter of size 2.5 micrometers or less diameter levels 
+Used data.gov.in api to collect pm2.5 levels of different Indian cities and made a bar chart
